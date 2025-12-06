@@ -5,8 +5,8 @@
 ### Full-Stack Developer | AI Enthusiast | Hardware Integration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itamar-shealtiel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/zik3917)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itamarshealtiel1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItamarS3917)
 
 *Building production-ready applications that solve real-world problems*
 
@@ -219,7 +219,6 @@ I'm interested in:
 
 - **Email:** [itamarshealtiel1@gmail.com](mailto:itamarshealtiel1@gmail.com)
 - **LinkedIn:** [Itamar Shealtiel](https://linkedin.com/in/itamar-shealtiel)
-- **LeetCode:** [zik3917](https://leetcode.com/zik3917)
 - **GitHub:** You're already here! 😄
 
 ---
